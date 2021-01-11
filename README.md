@@ -1,3 +1,3 @@
 # Chest-X-ray-deep-learning-
 
-https://www.kaggle.com/nih-chest-xrays/data
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
